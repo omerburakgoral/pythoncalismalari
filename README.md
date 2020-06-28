@@ -1,0 +1,2 @@
+# PythonCalismalari
+Bütün Python Çalışmalarım
